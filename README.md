@@ -1,6 +1,6 @@
 # Sektron
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/xaviergodart/sektron) ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/xaviergodart/sektron/build.yml)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/emprcl/sektron) ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/emprcl/sektron/build.yml)
 
 Sektron is a midi step sequencer, made with live performance in mind, that runs in the terminal (TUI).
 Its main purpose is to mimic the fun and immediacity of hardware sequencers by being entirely controllable via keyboard.
@@ -9,7 +9,7 @@ It's heavily inspired by [elektron devices](https://www.elektron.se).
 
 **_Sektron has only been tested on linux (it should work on macOS as well) and you may experience some crashes here and there._**
 
-**_Feel free to [open an issue](https://github.com/xaviergodart/sektron/issues/new)._**
+**_Feel free to [open an issue](https://github.com/emprcl/sektron/issues/new)._**
 
 ![sektron screenshot](/docs/screenshot.png)
 
@@ -23,11 +23,11 @@ It's heavily inspired by [elektron devices](https://www.elektron.se).
  - Up to **64 patterns** can be loaded at the same time
  - **Pattern chaining**
 
-See [Roadmap](https://github.com/xaviergodart/sektron#roadmap) for more.
+See [Roadmap](https://github.com/emprcl/sektron#roadmap) for more.
 
 ## Installation
 
-[Download the last release](https://github.com/xaviergodart/sektron/releases) for your platform.
+[Download the last release](https://github.com/emprcl/sektron/releases) for your platform.
 
 Then:
 ```sh
