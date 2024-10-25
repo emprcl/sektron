@@ -2,6 +2,8 @@
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/emprcl/sektron) ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/emprcl/sektron/build.yml)
 
+:notebook: **[User Manual](https://empr.cl/sektron/)**
+
 Sektron is a midi step sequencer, made with live performance in mind, that runs in the terminal (TUI).
 Its main purpose is to mimic the fun and immediacity of hardware sequencers by being entirely controllable via keyboard.
 
